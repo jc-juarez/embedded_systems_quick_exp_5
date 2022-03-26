@@ -1,3 +1,7 @@
+// Embedded Systems
+// Quick Experiment 5
+// Modified by Juan Carlos JUárez
+
 #include <stdio.h>
 #include <stdint.h>
 #define SUM(a,b) (a + b)
